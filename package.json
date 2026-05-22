@@ -1,0 +1,40 @@
+{
+  "name": "powerai-load-test-01-20260522-042729105",
+  "private": true,
+  "version": "0.0.1",
+  "type": "module",
+  "scripts": {
+    "dev": "astro dev",
+    "start": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "astro": "astro"
+  },
+  "dependencies": {
+    "@astrojs/check": "0.9.9",
+    "@astrojs/mdx": "5.0.4",
+    "@astrojs/react": "5.0.4",
+    "@astrojs/sitemap": "3.7.2",
+    "@justinribeiro/lite-youtube": "^1.9.0",
+    "@tailwindcss/forms": "^0.5.11",
+    "@tailwindcss/typography": "^0.5.19",
+    "@tailwindcss/vite": "^4.2.4",
+    "astro": "6.2.1",
+    "astro-auto-import": "^0.5.1",
+    "date-fns": "^4.1.0",
+    "github-slugger": "^2.0.0",
+    "gray-matter": "^4.0.3",
+    "marked": "^18.0.3",
+    "motion": "^12.38.0",
+    "react": "^19.2.5",
+    "react-dom": "^19.2.5",
+    "react-icons": "^5.6.0",
+    "remark-collapse": "^0.1.2",
+    "remark-toc": "^9.0.0",
+    "sharp": "^0.34.5",
+    "tailwind-bootstrap-grid": "^7.0.0",
+    "tailwindcss": "^4.2.4",
+    "typescript": "^6.0.3",
+    "vite": "^7"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "site": {
+    "title": "PowerAI Load Test 01 20260522-042729105",
+    "base_url": "https://lt-20260522-042729105-powerai-01-9105-b23a0952.pages.dev/",
+    "base_path": "/",
+    "trailing_slash": false,
+    "favicon": "/images/favicon.svg",
+    "logo": "/images/logo.svg",
+    "logo_width": "137",
+    "logo_height": "46",
+    "logo_text": "PowerAI Load Test 01 20260522-042729105"
+  },
+  "settings": {
+    "sticky_header": true,
+    "pagination": 9,
+    "summary_length": 200,
+    "blog_folder": "blog",
+    "case_studies_folder": "case-studies",
+    "career_folder": "careers"
+  },
+  "params": {
+    "contact_form_action": "#",
+    "apply_form_action": "#",
+    "newsletter_form_action": "#",
+    "footer_text": "Real staging load test batch 20260522-042729105 for PowerAI.",
+    "mail": "hello@example.com",
+    "phone": "(+1) 123-346-7890",
+    "copyright": "Published with PowerAI Load Test 01 20260522-042729105."
+  },
+  "navigation_button": {
+    "enable": false,
+    "label": "",
+    "link": ""
+  },
+  "google_tag_manager": {
+    "enable": false,
+    "gtm_id": "GTM-XXXXXX"
+  },
+  "metadata": {
+    "meta_author": "Sitepins",
+    "meta_image": "/images/og-image.svg",
+    "meta_description": "Real staging load test batch 20260522-042729105 for PowerAI."
+  }
+}

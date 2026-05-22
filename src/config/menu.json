@@ -1,0 +1,90 @@
+{
+  "main": [
+    {
+      "name": "Home",
+      "url": "/"
+    },
+    {
+      "name": "Features",
+      "url": "/features"
+    },
+    {
+      "name": "Pricing",
+      "url": "/pricing"
+    },
+    {
+      "name": "Blog",
+      "url": "/blog"
+    },
+    {
+      "name": "Pages",
+      "url": "/pages"
+    },
+    {
+      "name": "About",
+      "url": "/about"
+    },
+    {
+      "name": "Contact",
+      "url": "/contact"
+    }
+  ],
+  "footer_company": [
+    {
+      "name": "Home",
+      "url": "/"
+    },
+    {
+      "name": "About Us",
+      "url": "/about"
+    },
+    {
+      "name": "Features",
+      "url": "/features"
+    },
+    {
+      "name": "Pricing Plans",
+      "url": "/pricing"
+    },
+    {
+      "name": "Contact Us",
+      "url": "/contact"
+    }
+  ],
+  "footer_resource": [
+    {
+      "name": "Blog",
+      "url": "/blog"
+    },
+    {
+      "name": "Case Study",
+      "url": "/case-studies"
+    },
+    {
+      "name": "Integrations",
+      "url": "/integrations"
+    },
+    {
+      "name": "Careers",
+      "url": "/careers"
+    },
+    {
+      "name": "Contact",
+      "url": "/contact"
+    }
+  ],
+  "footer_legal": [
+    {
+      "name": "Privacy Policy",
+      "url": "/privacy-policy"
+    },
+    {
+      "name": "Terms of Service",
+      "url": "/terms"
+    },
+    {
+      "name": "Cookie Policy",
+      "url": "/cookie-policy"
+    }
+  ]
+}

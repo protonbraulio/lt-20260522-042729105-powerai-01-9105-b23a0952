@@ -1,2 +1,3 @@
-# lt-20260522-042729105-powerai-01-9105-b23a0952
-Real staging load test batch 20260522-042729105 for PowerAI.
+# PowerAI Load Test 01 20260522-042729105
+
+Generated with the PowerAI Astro template.
